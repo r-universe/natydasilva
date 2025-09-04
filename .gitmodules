@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/natydasilva/natydasilva.r-universe.dev
 	branch = HEAD
+[submodule "PPforest"]
+	path = PPforest
+	url = https://github.com/natydasilva/PPforest
 [submodule "PPtreeExt"]
 	path = PPtreeExt
 	url = https://github.com/natydasilva/PPtreeExt
+[submodule "SpICE"]
+	path = SpICE
+	url = https://github.com/natydasilva/SpICE
